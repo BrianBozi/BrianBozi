@@ -47,4 +47,4 @@
 
 ###  Get in touch 📬 
 - LinkedIn - <a href="https://www.linkedin.com/in/brian-bozigian/">Linkedin</a>
-- Email - <bbozigian@outlook.com>
+- Email - <brianbozigian@gmail.com>
